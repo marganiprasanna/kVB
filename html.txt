@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>K.Venkana Babu - Event Management</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>K. Venkana Babu Event Management</h1>
+            <p>Your premier choice for weddings, birthdays, and special events in Vizanagram, East Godavari, and Hyderabad.</p>
+        </div>
+    </header>
+    
+    <section class="gallery">
+        <h2>Our Recent Events</h2>
+        <div class="gallery-container">
+            <img src="ai-image1.jpg" alt="Event Image 1">
+            <img src="ai-image2.jpg" alt="Event Image 2">
+            <img src="ai-image3.jpg" alt="Event Image 3">
+        </div>
+    </section>
+
+    <section class="about">
+        <div class="container">
+            <h2>About Us</h2>
+            <p>With over 100 successful marriages organized, K. Venkana Babu is dedicated to making your special occasions unforgettable. From weddings to birthdays, we handle all the details so you can enjoy the moment.</p>
+        </div>
+    </section>
+    
+    <section class="contact">
+        <div class="container">
+            <h2>Contact Us</h2>
+            <p>Phone: <a href="tel:9866439948">9866439948</a></p>
+            <p>Email: <a href="mailto:info@venkanababuevents.com">info@venkanababuevents.com</a></p>
+        </div>
+    </section>
+    
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 K. Venkana Babu Event Management. All rights reserved.</p>
+        </div>
+    </footer>
+</body>
+</html>
